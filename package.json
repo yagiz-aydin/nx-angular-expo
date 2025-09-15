@@ -5,7 +5,7 @@
   },
   "scripts": {
     "start:angular": "cd ./apps/angular-web && npx ng serve",
-    "start:expo": "cd ./apps/expo-mobile && npx expo start",
+    "start:expo": "npm run migrate-packs && cd ./apps/expo-mobile && npx expo start",
     "migrate-packs": "rm -rf ./apps/expo-mobile/packages && cp -R ./packages ./apps/expo-mobile/packages"
   }
 }
