@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
-import { Greet } from '../../../../packages/shared';
+import { Greet } from '@/packages/shared';
 
 @Component({
   selector: 'app-root',

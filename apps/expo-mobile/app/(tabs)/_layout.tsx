@@ -1,5 +1,4 @@
 import { Tabs } from 'expo-router';
-import React from 'react';
 
 import { useColorScheme } from '@/apps/expo-mobile/hooks/use-color-scheme';
 import { Colors } from '@/apps/expo-mobile/constants/theme';

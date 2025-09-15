@@ -6,10 +6,9 @@
     "outDir": "../../dist/out-tsc",
     "types": [],
     "paths": {
-      "@/shared/*": ["../../../../packages/shared/*"]
+      "@/*": ["./*"]
     },
   },
-
   "files": ["src/main.ts", "src/main.server.ts", "src/server.ts"],
   "include": ["src/**/*.ts"],
   "exclude": ["src/test.ts", "**/*.spec.ts"]
