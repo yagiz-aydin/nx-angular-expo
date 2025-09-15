@@ -87,8 +87,6 @@ console.log(greet('Yağız'));
 ```
 
 ---
-
 If you want, I can also **enhance it with visual examples, screenshots, and step-by-step setup commands** to make it a fully ready-to-use guide for developers.  
 
 Do you want me to do that next?
-```
