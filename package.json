@@ -1,0 +1,10 @@
+{
+  "name": "nx-angular-expo",
+  "devDependencies": {
+    "@nrwl/angular": "^19.8.4"
+  },
+"scripts": {
+  "start:angular": "cd ./apps/angular-web && ng serve",
+  "start:expo": "cd ./apps/expo-mobile && npx expo start"
+}
+}
