@@ -21,8 +21,6 @@ my-monorepo/
 
 ````
 
----
-
 ## 🚀 Getting Started
 
 ### Angular Web
@@ -42,8 +40,6 @@ nx run expo-mobile:start
 
 This will launch the Expo Metro bundler. You can run the app on a mobile device or in a browser.
 
----
-
 ## 🛠 Shared Code
 
 * Located in the `packages/shared` folder.
@@ -57,8 +53,6 @@ console.log(greet('Yağız'));
 
 * Paths are configured in `tsconfig.base.json`.
 
----
-
 ## 📌 Features
 
 * Responsive dashboard design (web + mobile)
@@ -66,16 +60,12 @@ console.log(greet('Yağız'));
 * Monorepo management using Nx
 * Angular for web pages, Expo for mobile screens
 
----
-
 ## 📈 Future Plans
 
 * Authentication / Authorization
 * Real-time data / WebSocket integration
 * Dark mode / Theme support
 * Dashboard widget system (charts, tables, KPI cards)
-
----
 
 ## 💻 Requirements
 
@@ -86,7 +76,6 @@ console.log(greet('Yağız'));
 
 ```
 
----
 If you want, I can also **enhance it with visual examples, screenshots, and step-by-step setup commands** to make it a fully ready-to-use guide for developers.  
 
 Do you want me to do that next?
