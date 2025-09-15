@@ -1,6 +1,3 @@
-Perfect! İşte **dashboard monorepo README**’sinin İngilizce versiyonu, profesyonel ve anlaşılır bir şekilde:
-
-```markdown
 # Dashboard Monorepo: Angular Web + Expo React Native
 
 This monorepo contains both an **Angular web** and an **Expo React Native mobile** dashboard application. Shared functionality, types, and API clients are stored in the `packages/shared` folder for reuse across both platforms.
@@ -9,8 +6,7 @@ This monorepo contains both an **Angular web** and an **Expo React Native mobile
 
 ## 📂 Project Structure
 
-```
-
+```markdown
 my-monorepo/
 │
 ├─ apps/
