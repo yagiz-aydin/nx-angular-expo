@@ -4,8 +4,7 @@
     "strict": true,
     "jsx": "react-jsx",
     "paths": {
-      "@/*": ["../../*"],
-      "expo-mobile": ["./"],
+      "@/*": ["apps/expo-mobile/*"],
     },
   },
   "include": ["**/*.ts", "**/*.tsx",

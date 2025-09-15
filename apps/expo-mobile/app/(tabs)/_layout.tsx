@@ -1,11 +1,11 @@
 import { Tabs } from 'expo-router';
 
-import { useColorScheme } from '@/apps/expo-mobile/hooks/use-color-scheme';
-import { Colors } from '@/apps/expo-mobile/constants/theme';
-import { HapticTab } from '@/apps/expo-mobile/components/haptic-tab';
-import { IconSymbol } from '@/apps/expo-mobile/components/ui/icon-symbol.ios';
+import { useColorScheme } from '@/hooks/use-color-scheme';
+import { Colors } from '@/constants/theme';
+import { HapticTab } from '@/components/haptic-tab';
+import { IconSymbol } from '@/components/ui/icon-symbol.ios';
 
-import { Greet } from '@/packages/shared/greet';
+import { Greet } from '@/packages/shared'
 
 export default function TabLayout() {
   const colorScheme = useColorScheme();
